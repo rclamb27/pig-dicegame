@@ -3,7 +3,7 @@ Created by Ryan Lamb
 ## Rules
 * 2-4 players
 * Rolls form highest to greatest for the order of playing (precalculates before game starts)
-* You can ethier decide on your turn to keep rolling or to cash in the points you earned during your turn to your score
+* You can either decide on your turn to keep rolling or to cash in the points you earned during your turn to your score
 * If you roll a 1 you get nothing added to your score and your turn ends
 * If you roll 2-6 it will be added to the turn score which can be added to your score if you choose to put your turn on hold
 * Get to 100 points in total to win
